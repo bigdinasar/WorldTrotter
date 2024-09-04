@@ -65,4 +65,6 @@ class MapViewController: UIViewController {
             break
         }
     }
+    
+    var sneeze = 1
 }
